@@ -1,5 +1,6 @@
 -- Run all migrations
 \i migrations/001_create_tables.sql
+\i migrations/002_add_postgis.sql
 
 
 -- Load functions
